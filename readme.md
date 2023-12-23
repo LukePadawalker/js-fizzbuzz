@@ -13,7 +13,7 @@ scomposizione del problema
        stampa buzz 
 
 
-    
+
     stampa il numero
 
 
